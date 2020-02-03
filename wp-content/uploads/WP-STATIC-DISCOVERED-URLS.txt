@@ -7,7 +7,7 @@
 /wp-json/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -20,32 +20,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
-
-/checkout-2/
-/paper-types/
-/customize/
-/cart-2/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-9/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-8/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-7/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-6/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-5/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-4/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-3/
-/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-2/
-/2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/
-/category/inspiration/
-/category/invitations/
-/2019/11/
-/feed/
-/comments/feed/
-/wp-includes/css/dist/block-library/style.min.css
-/wp-includes/js/jquery/jquery.js
-/wp-includes/js/jquery/jquery-migrate.min.js
-/wp-json/
-/
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -70,7 +45,32 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
+
+/checkout-2/
+/paper-types/
+/customize/
+/cart-2/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-9/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-8/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-7/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-6/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-5/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-4/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-3/
+/2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-2/
+/2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/
+/category/inspiration/
+/category/invitations/
+/2019/11/
+/feed/
+/comments/feed/
+/wp-includes/css/dist/block-library/style.min.css
+/wp-includes/js/jquery/jquery.js
+/wp-includes/js/jquery/jquery-migrate.min.js
+/wp-json/
+/
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -91,7 +91,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -107,7 +107,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -136,7 +136,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-2/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -157,7 +157,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-3/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -178,7 +178,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-4/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -199,7 +199,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-5/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -220,7 +220,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-6/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -241,7 +241,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-7/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -262,7 +262,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-8/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -282,7 +282,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-9/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -301,7 +301,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /about/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -316,7 +316,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /cart-2/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -330,7 +330,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /cart/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -344,7 +344,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -362,7 +362,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -380,7 +380,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -406,7 +406,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -432,7 +432,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -458,7 +458,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-includes/js/jquery/jquery-migrate.min.js
 /wp-json/
 /
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -485,7 +485,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /checkout-2/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /paper-types/
 /customize/
@@ -499,7 +499,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /checkout/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -514,7 +514,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /customize/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -528,7 +528,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /etiquette-guide/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -543,7 +543,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /inspiration/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -570,7 +570,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /my-account/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -584,7 +584,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /wp-json/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -599,7 +599,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /paper-types/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /customize/
@@ -613,7 +613,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /printing-101/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -628,7 +628,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /products/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -643,7 +643,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /select/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -658,7 +658,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /shipping/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/
@@ -673,7 +673,7 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
 /shop/
 /
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 
 /checkout-2/
 /paper-types/

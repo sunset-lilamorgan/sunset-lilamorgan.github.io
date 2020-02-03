@@ -17,4 +17,4 @@
 /wp-includes/js/jquery/jquery.js
 /wp-json/
 /wp-json/oembed/1.0/embed
-http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png

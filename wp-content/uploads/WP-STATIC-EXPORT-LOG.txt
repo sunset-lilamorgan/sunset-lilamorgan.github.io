@@ -149,7 +149,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -166,7 +166,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -195,7 +195,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -224,7 +224,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -249,7 +249,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -269,7 +269,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -302,7 +302,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-2/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -327,7 +327,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-3/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -352,7 +352,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-4/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -377,7 +377,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-5/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -402,7 +402,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-6/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -427,7 +427,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-7/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -452,7 +452,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-8/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -476,7 +476,7 @@ Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall
 Adding discovered URL: /2019/11/26/five-perfect-autumn-invitations-for-your-fall-wedding-9/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -503,7 +503,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /about/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -522,7 +522,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /cart-2/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -540,7 +540,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /cart/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -558,7 +558,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -580,7 +580,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -602,7 +602,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -632,7 +632,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -662,7 +662,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -692,7 +692,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery.js
 Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -723,7 +723,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /paper-types/
 Adding discovered URL: /customize/
@@ -741,7 +741,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /checkout/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -760,7 +760,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /customize/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -778,7 +778,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /etiquette-guide/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -801,7 +801,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /inspiration/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -832,7 +832,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /my-account/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -850,7 +850,7 @@ Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
 Adding discovered URL: /wp-json/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -877,7 +877,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /paper-types/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /customize/
@@ -895,7 +895,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /printing-101/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -914,7 +914,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /products/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -937,7 +937,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /select/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -956,7 +956,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /shipping/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -975,7 +975,7 @@ Adding discovered URL: /wp-json/
 Adding discovered URL: /shop/
 Adding discovered URL: /
 Adding discovered URL: /wp-json/oembed/1.0/embed
-Adding discovered URL: http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Adding discovered URL: https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Adding discovered URL: 
 Adding discovered URL: /checkout-2/
 Adding discovered URL: /paper-types/
@@ -2212,8 +2212,8 @@ Excluding /wp-json/ because of rule wp-json
 Exclusion rules wp-json
 Excluding /wp-json/oembed/1.0/embed because of rule wp-json
 Exclusion rules wp-json
-Crawling http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
-BAD RESPONSE STATUS (404): http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/LilaMorganLogo.png
+Crawling https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
+BAD RESPONSE STATUS (404): https://sunset-lilamorgan.github.io/wp-content/uploads/2019/11/LilaMorganLogo.png
 Memory allocated by crawl script: 2048
 Uploading /home/site/wwwroot/wp-content/uploads/wp-static-html-output-1580766267/2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/feed/index.html to 2019/11/25/five-perfect-autumn-invitations-for-your-fall-wedding/feed/index.html in GitHub
 API response code 200
