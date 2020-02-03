@@ -1,0 +1,12 @@
+#eut-sidebar-wrap .eut-sidebar-table {margin-top: 15px;}
+#eut-sidebar-wrap table tr:nth-child(2n) td, #eut-sidebar-wrap table tr:nth-child(2n) th {background: #fcfcfc;}
+#eut-sidebar-wrap table td:first-child {width: 150px;vertical-align: middle;}
+#eut-sidebar-wrap table tfoot p {margin: 0;padding: 0;}
+.eut-sidebar-changed, .eut-sidebar-notice, .eut-sidebar-notice-exists, .eut-custom-sidebar-empty {display: none;}
+.eut-sidebar-text, .eut-sidebar-notice, .eut-sidebar-notice-exists {float: left;}
+.eut-sidebar-notice, .eut-sidebar-notice-exists {margin-left: 10px;}
+#eut-custom-sidebar-item-name-new {margin: 0;padding: 3px;}
+.eut-custom-sidebar-item {font-size: 1.2em;}
+.eut-notice-red {color: red;}
+.eut-notice-green {color: green;}
+.eut-sidebar-spinner {background: url("../images/spinner.gif") no-repeat scroll 0 0/20px 20px rgba(0,0,0,0);vertical-align: middle;display: none;height: 20px;margin: 2px 10px 0;opacity: .7;width: 20px;float: right;}
