@@ -1,7 +1,0 @@
-.eut-metabox.form-table th {font-weight: normal;}
-.eut-metabox th {width: 25%;}
-.eut-metabox .eut-meta-text, .eut-metabox textarea {width: 100%;}
-.eut-metabox select {display: inline-block;margin: 0;min-width: 200px;}
-.eut-metabox label span {color: #999;display: block;font-size: 12px;font-weight: normal;line-height: 20px;margin: 0;}
-.eut-post-selector-select2 {display: inline-block;min-width: 200px;}
-@media screen and (max-width: 870px) {.eut-metabox th {width: 100%;}}
